@@ -26,15 +26,15 @@ const Footer = () => {
                             </span>
                         </div>
                         <p className="text-base max-w mt-4">
-                            Empower your business with our AI tools.
+                            Start your store today.
                         </p>
                         <Button className="mt-8">
-                            <Link href="/app">
+                            <Link href="https://wa.me/919495314108">
                                 Start for free
                             </Link>
                         </Button>
                     </div>
-                    <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 w-full max-w-lg mt-10 md:mt-0">
+                    {/* <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 w-full max-w-lg mt-10 md:mt-0">
                         {FOOTER_LINKS?.map((section, index) => (
                             <div key={index} className="flex flex-col gap-4">
                                 <h4 className="text-sm font-medium">
@@ -51,7 +51,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                         ))}
-                    </div>
+                    </div> */}
                 </Wrapper>
             </Container>
             <Container>
@@ -60,15 +60,15 @@ const Footer = () => {
                         &copy; {new Date().getFullYear()} Shopigo. All rights reserved.
                     </p>
                     <div className="flex items-center gap-4">
-                        <Link href="#" className="p-1">
+                        <Link href="https://instagram.com/getshopigo" target="_blank" className="p-1">
                             <Icons.instagram className="w-5 h-5 text-muted-foreground hover:text-secondary-foreground" />
                         </Link>
-                        <Link href="#" className="p-1">
+                        <Link href="https://x.com/getshopigo"  target="_blank" className="p-1">
                             <Icons.twitter className="w-5 h-5 text-muted-foreground hover:text-secondary-foreground" />
                         </Link>
-                        <Link href="#" className="p-1">
+                        {/* <Link href="#" className="p-1">
                             <Icons.discord className="w-5 h-5 text-muted-foreground hover:text-secondary-foreground" />
-                        </Link>
+                        </Link> */}
                     </div>
                 </Wrapper>
             </Container>
