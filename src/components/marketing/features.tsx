@@ -26,7 +26,7 @@ const Features = () => {
                 <div className="flex flex-col items-center gap-5 lg:gap-5 w-full">
                     <Container>
                         <div className="grid grid-cols-1 lg:grid-cols-[1fr_.65fr] w-full gap-5 lg:gap-5">
-                            <MagicCard particles={true} className="flex flex-col items-start size-full bg-primary/[0.08]">
+                            <MagicCard particles={true} className="flex flex-col items-start size-full bg-secondary">
                                 <div className="bento-card flex items-center justify-center min-h-72">
                                     <span className="text-muted-foreground group-hover:text-foreground mx-auto relative">
                                         <Icons.stars className="w-20 h-20" />
@@ -34,7 +34,7 @@ const Features = () => {
                                     <Ripple />
                                 </div>
                             </MagicCard>
-                            <MagicCard particles={true} className="flex flex-col items-start w-full bg-primary/[0.08]">
+                            <MagicCard particles={true} className="flex flex-col items-start w-full bg-secondary">
                                 <div className="bento-card w-full flex-row gap-6">
                                     <div className="w-full h-40">
                                         <Images.analytics className="w-full h-full" />
@@ -53,7 +53,7 @@ const Features = () => {
                     </Container>
                     <Container>
                         <div className="grid grid-cols-1 lg:grid-cols-3 w-full gap-5 lg:gap-5">
-                            <MagicCard particles={true} className="flex flex-col items-start w-full row-span-1 bg-primary/[0.08]">
+                            <MagicCard particles={true} className="flex flex-col items-start w-full row-span-1 bg-secondary">
                                 <div className="bento-card w-full flex-row gap-6">
                                     <div className="w-full h-52 relative">
                                         <Images.ideation className="w-full h-full" />
@@ -70,7 +70,7 @@ const Features = () => {
                                 </div>
                             </MagicCard>
                             <div className="grid grid-rows gap-5 lg:gap-5">
-                                <MagicCard particles={true} className="flex flex-col items-start w-full row-span- row-start-[0.5] h-32 bg-primary/[0.08]">
+                                <MagicCard particles={true} className="flex flex-col items-start w-full row-span- row-start-[0.5] h-32 bg-secondary">
                                     <div className="bento-card w-full relative items-center justify-center">
                                         <div className="w-full absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
                                             <p className="text-base text-muted-foreground text-justify [mask-image:radial-gradient(50%_50%_at_50%_50%,#BAB3FF_0%,rgba(186,179,255,0)_90.69%)]">
@@ -83,7 +83,7 @@ const Features = () => {
                                         </div>
                                     </div>
                                 </MagicCard>
-                                <MagicCard particles={true} className="flex flex-col items-start w-full row-start-2 !h-max bg-primary/[0.08]">
+                                <MagicCard particles={true} className="flex flex-col items-start w-full row-start-2 !h-max bg-secondary">
                                     <div className="bento-card w-full gap-6 relative">
                                         <div className="w-full h-48 relative">
                                             <Images.rings className="w-full h-full absolute inset-0" />
@@ -95,7 +95,7 @@ const Features = () => {
                                     </div>
                                 </MagicCard>
                             </div>
-                            <MagicCard particles={true} className="flex flex-col items-start w-full row-span-1 bg-primary/[0.08]">
+                            <MagicCard particles={true} className="flex flex-col items-start w-full row-span-1 bg-secondary">
                                 <div className="bento-card w-full flex-row gap-6">
                                     <div className="flex flex-col mb-auto">
                                         <h4 className="text-xl font-heading font-medium heading ">
@@ -115,7 +115,7 @@ const Features = () => {
                     </Container>
                     <Container>
                         <div className="grid grid-cols-1 lg:grid-cols-[.40fr_1fr] w-full gap-5 lg:gap-5">
-                            <MagicCard particles={true} className="flex flex-col items-start w-full bg-primary/[0.08]">
+                            <MagicCard particles={true} className="flex flex-col items-start w-full bg-secondary">
                                 <div className="bento-card w-full flex-row gap-6">
                                     <div className="w-full">
                                         <Images.image className="w-full h-40 lg:h-auto" />
@@ -130,7 +130,7 @@ const Features = () => {
                                     </div>
                                 </div>
                             </MagicCard>
-                            <MagicCard particles={true} className="flex flex-col items-start w-full bg-primary/[0.08]">
+                            <MagicCard particles={true} className="flex flex-col items-start w-full bg-secondary">
                                 <div className="bento-card w-full flex-row gap-6">
                                     <div className="w-full">
                                         <Images.hash className="w-full h-40 lg:h-52" />

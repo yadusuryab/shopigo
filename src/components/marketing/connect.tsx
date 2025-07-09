@@ -24,7 +24,7 @@ const Connect = () => {
               className="absolute inset-0"
               quantity={150}
               ease={80}
-              color="#e4e4e7"
+              color="#00FFDE"
               refresh
             />
           </div>

@@ -32,7 +32,7 @@ export const Ripple = React.memo(function Ripple({
                                 animationDelay,
                                 borderStyle,
                                 borderWidth: "1px",
-                                borderColor: `#e4e4e7, ${borderOpacity / 0})`,
+                                borderColor: `#00FFDE, ${borderOpacity / 0})`,
                                 // borderColor: `hsl(var(--foreground), ${borderOpacity / 100})`,
                                 top: "50%",
                                 left: "50%",
