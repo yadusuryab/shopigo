@@ -4959,7 +4959,7 @@ const Images = {
                 </linearGradient>
                 <linearGradient id="paint15_linear_444_7759" x1="1727" y1="516" x2="1827" y2="516" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
-                    <stop offset="1" stop-color="#6D28D9" />
+                    <stop offset="1" stop-color="#00FFDE" />
                 </linearGradient>
                 <linearGradient id="paint16_linear_444_7759" x1="370" y1="516" x2="520" y2="516" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
@@ -4971,7 +4971,7 @@ const Images = {
                 </linearGradient>
                 <linearGradient id="paint18_linear_444_7759" x1="395" y1="516" x2="495" y2="516" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
-                    <stop offset="1" stop-color="#6D28D9" />
+                    <stop offset="1" stop-color="#00FFDE" />
                 </linearGradient>
                 <linearGradient id="paint19_linear_444_7759" x1="133" y1="720" x2="283" y2="720" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
@@ -4983,7 +4983,7 @@ const Images = {
                 </linearGradient>
                 <linearGradient id="paint21_linear_444_7759" x1="158" y1="720" x2="258" y2="720" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
-                    <stop offset="1" stop-color="#6D28D9" />
+                    <stop offset="1" stop-color="#00FFDE" />
                 </linearGradient>
                 <linearGradient id="paint22_linear_444_7759" x1="189" y1="326" x2="339" y2="326" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
@@ -4995,7 +4995,7 @@ const Images = {
                 </linearGradient>
                 <linearGradient id="paint24_linear_444_7759" x1="214" y1="326" x2="314" y2="326" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
-                    <stop offset="1" stop-color="#6D28D9" />
+                    <stop offset="1" stop-color="#00FFDE" />
                 </linearGradient>
                 <linearGradient id="paint25_linear_444_7759" x1="1883" y1="325" x2="2033" y2="325" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
@@ -5007,7 +5007,7 @@ const Images = {
                 </linearGradient>
                 <linearGradient id="paint27_linear_444_7759" x1="1908" y1="325" x2="2008" y2="325" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
-                    <stop offset="1" stop-color="#6D28D9" />
+                    <stop offset="1" stop-color="#00FFDE" />
                 </linearGradient>
                 <linearGradient id="paint28_linear_444_7759" x1="1938" y1="719" x2="2088" y2="719" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
@@ -5019,7 +5019,7 @@ const Images = {
                 </linearGradient>
                 <linearGradient id="paint30_linear_444_7759" x1="1963" y1="719" x2="2063" y2="719" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#8B5CF6" />
-                    <stop offset="1" stop-color="#6D28D9" />
+                    <stop offset="1" stop-color="#00FFDE" />
                 </linearGradient>
             </defs>
         </svg>
